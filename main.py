@@ -3,6 +3,11 @@
 
 Writes a single funny line to /output/entry.txt.
 Gate: UTF-8 text, 1-140 characters, not only whitespace.
+
+The joke: a neglected houseplant, promised water "when life calmed
+down", waits three years and hires a lawyer — a mundane procrastination
+excuse escalated to an absurd legal threat, landing the whole turn in
+one breath-short, self-contained line.
 """
 
 import os
